@@ -7,12 +7,30 @@
 //
 
 #include <iostream>
+#include <string>
+#include "Arbus.h"
 
 int main(int argc, const char * argv[])
 {
 
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    Arbus<int, int> a;
+    
+    a.inserta(20, 20);
+    a.inserta(10, 10);
+    a.inserta(30, 30);
+    a.inserta(5, 5);
+    a.inserta(15, 15);
+    a.inserta(25, 25);
+    a.inserta(40, 40);
+    a.inserta(8, 8);
+    a.inserta(35, 35);
+    
+    std::string estado = "";
+    
+    a.equilibrado() ? estado = "TRUE" : estado = "FALSE";
+    
+    std::cout << "El arbol está equilibrado?: " << estado << std::endl;
+    
     return 0;
 }
 
