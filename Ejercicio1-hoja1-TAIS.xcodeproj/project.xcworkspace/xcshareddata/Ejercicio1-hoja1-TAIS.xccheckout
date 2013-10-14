@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CFDF6013-F5D8-4754-9F83-046D1060F961</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Ejercicio1-hoja1-TAIS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1AF7ABC9-5935-4FCA-8C40-F2EA30FEB3A0</key>
+		<string>https://github.com/plandevida/Ejercicio1-hoja1-TAIS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Ejercicio1-hoja1-TAIS.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1AF7ABC9-5935-4FCA-8C40-F2EA30FEB3A0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/plandevida/Ejercicio1-hoja1-TAIS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1AF7ABC9-5935-4FCA-8C40-F2EA30FEB3A0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1AF7ABC9-5935-4FCA-8C40-F2EA30FEB3A0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Ejercicio1-hoja1-TAIS</string>
+		</dict>
+	</array>
+</dict>
+</plist>

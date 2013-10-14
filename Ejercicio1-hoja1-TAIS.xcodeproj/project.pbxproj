@@ -227,6 +227,7 @@
 				CB35D52E180B2365003C55A5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
