@@ -10,12 +10,28 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../TADS/Arbus.h"
-            timestampString = "403446435.666098"
+            timestampString = "403645894.687445"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "178"
-            endingLineNumber = "178"
-            landmarkName = "equilibrado(Nodo* n, int&amp; difAltura, int&amp; alturaIz, int&amp; alturaDr)"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "equilibrado(Nodo* n, int&amp; alturaTotal, int alturaTemp, bool&amp; equi)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TADS/Arbus.h"
+            timestampString = "403643905.820203"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "equilibrado()"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
