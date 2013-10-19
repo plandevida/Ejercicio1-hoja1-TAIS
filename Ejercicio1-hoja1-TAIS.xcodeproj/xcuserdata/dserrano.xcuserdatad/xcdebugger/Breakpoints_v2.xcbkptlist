@@ -22,16 +22,16 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../Downloads/TADs-EDA/Arbus.h"
-            timestampString = "403899700.583649"
+            timestampString = "403902722.912543"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "169"
-            endingLineNumber = "169"
-            landmarkName = "equilibrado(Nodo* n, int&amp; altura, int equi)"
+            startingLineNumber = "172"
+            endingLineNumber = "172"
+            landmarkName = "equilibrado(Nodo* n, int&amp; altura, bool&amp; equi)"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
