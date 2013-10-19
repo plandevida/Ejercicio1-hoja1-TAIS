@@ -33,10 +33,6 @@ int main(int argc, const char * argv[])
     
     std::cout << "El arbol está equilibrado?: " << estado << std::endl;
     
-    a.equilibrado2() ? estado = "TRUE" : estado = "FALSE";
-
-    std::cout << "El arbol está equilibrado2?: " << estado << std::endl;
-    
     return 0;
 }
 
