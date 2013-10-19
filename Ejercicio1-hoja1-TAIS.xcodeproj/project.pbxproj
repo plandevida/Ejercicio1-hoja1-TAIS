@@ -196,7 +196,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				USER_HEADER_SEARCH_PATHS = "~/git/TADS/**";
+				USER_HEADER_SEARCH_PATHS = "~/Downloads/TADs-EDA/**";
 			};
 			name = Debug;
 		};
@@ -204,7 +204,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				USER_HEADER_SEARCH_PATHS = "~/git/TADS/**";
+				USER_HEADER_SEARCH_PATHS = "~/Downloads/TADs-EDA/**";
 			};
 			name = Release;
 		};
