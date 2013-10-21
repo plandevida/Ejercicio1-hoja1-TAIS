@@ -10,6 +10,17 @@
 #include <string>
 #include "Arbus.h"
 
+template < typename Clave, typename Valor>
+void mostrarEquilibrado(Arbus<Clave, Valor> a) {
+    
+    
+    std::string estado = "";
+    
+    a.equilibrado() ? estado = "TRUE" : estado = "FALSE";
+    
+    std::cout << "El arbol está equilibrado?: " << estado << std::endl;
+}
+
 int main(int argc, const char * argv[])
 {
 
@@ -23,20 +34,16 @@ int main(int argc, const char * argv[])
     a.inserta(25, 25);
     a.inserta(40, 40);
     a.inserta(8, 8);
-    a.inserta(7, 7);
-    a.inserta(6, 6);
     a.inserta(35, 35);
     
-    std::string estado = "";
+    mostrarEquilibrado(a);
     
-    a.equilibrado() ? estado = "TRUE" : estado = "FALSE";
+    a.inserta(7, 7);
+    a.inserta(6, 6);
     
-    std::cout << "El arbol está equilibrado?: " << estado << std::endl;
-    
-    a.equilibrado2() ? estado = "TRUE" : estado = "FALSE";
-
-    std::cout << "El arbol está equilibrado2?: " << estado << std::endl;
+    mostrarEquilibrado(a);
     
     return 0;
 }
+
 
